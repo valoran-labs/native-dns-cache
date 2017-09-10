@@ -1,6 +1,8 @@
 Cache
 -----
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/valoran-labs/node-native-dns-cache.svg)](https://greenkeeper.io/)
+
 If you perform a query on an A or AAAA type and it doesn't exist, the cache
 will attempt to lookup a CNAME and then resolve that.
 
